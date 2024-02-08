@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background: green;
+}
+
+
+h1, p{
+    color: aliceblue;
+    margin: 60px;
+}
