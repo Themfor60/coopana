@@ -743,9 +743,7 @@ footer .enlaces ul > a:hover{
         
         
     }
-    .img-blog:hover{
-        width: 90%;
-    }
+    
     .contenedor-blog{
         display: flex;
         flex-direction: column;
